@@ -1,2 +1,2 @@
 # popkart-loginrobot
-automation makes the world brighter
+Automation makes the world brighter
